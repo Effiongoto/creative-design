@@ -469,6 +469,7 @@ html {
     font-size: 6rem;
     top: 25vw;
     width: 70rem;
+    font-family: 'Monoton', cursive;
   }
 
   .navbar-link {
